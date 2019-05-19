@@ -1,0 +1,3 @@
+module welcome {
+    requires helloworld;
+}
